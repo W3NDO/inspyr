@@ -1,1 +1,10 @@
-{"nodes":[{"id":"insurance"},{"id":"agriculture"}],"edges":[{"from":"insurance","to":"agriculture"}]}
+{
+    "nodes":[   
+        {"id":"insurance"},
+        {"id":"agriculture"}
+    ],
+    "edges":[
+        {"from":"insurance",
+        "to":"agriculture"}
+    ]
+}
